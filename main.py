@@ -79,4 +79,6 @@ if __name__ == '__main__':
     str = "a: b: c: d% d; q:"
     task3_3(str)
 
+    # Ветвления, циклы
+
 
